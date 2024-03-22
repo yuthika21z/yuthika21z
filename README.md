@@ -20,7 +20,7 @@ Utilized cosine similarity achieving a remarkable similarity score of 0.95 for p
 Collaboratively developed a robust weather forecasting program leveraging a Kaggle dataset of 96432 entries
 Achieved exceptional accuracy rates of 95% and 99% using decision tree and random forest algorithms respectively
 
-💻 Technical Skills
+💻 Technical Skills-
 Languages: Python, R, SQL
 Libraries:  NumPy, Pandas, Matplotlib, Seaborn
 Data analysis - Power BI , MS Excel .
@@ -28,7 +28,7 @@ Databases: Relational Database (MySQL)
 Relevant Coursework: Specialization in Machine learning , Database Management System
 Areas of Interest: Data analysis , Data visualization , Machine learning .
 
-🧠 Soft Skills 
+🧠 Soft Skills -
 Time management 
 Strong communication and presentation skills .
 
