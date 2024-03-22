@@ -22,7 +22,7 @@ Achieved exceptional accuracy rates of 95% and 99% using decision tree and rando
 
 💻 Technical Skills-
 
-Languages: Python, R, SQL
+Languages: Python, R, SQL  return
 Libraries:  NumPy, Pandas, Matplotlib, Seaborn
 Data analysis - Power BI , MS Excel .
 Databases: Relational Database (MySQL)
@@ -35,7 +35,7 @@ Time management
 Strong communication and presentation skills .
 
 ☎️ Get in Touch
-LinkedIn: yuthika zodge
+
 Email: yuthikazodge0@gmail.com
 
 
