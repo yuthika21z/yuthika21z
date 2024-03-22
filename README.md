@@ -21,6 +21,7 @@ Collaboratively developed a robust weather forecasting program leveraging a Kagg
 Achieved exceptional accuracy rates of 95% and 99% using decision tree and random forest algorithms respectively
 
 💻 Technical Skills-
+
 Languages: Python, R, SQL
 Libraries:  NumPy, Pandas, Matplotlib, Seaborn
 Data analysis - Power BI , MS Excel .
@@ -29,6 +30,7 @@ Relevant Coursework: Specialization in Machine learning , Database Management Sy
 Areas of Interest: Data analysis , Data visualization , Machine learning .
 
 🧠 Soft Skills -
+
 Time management 
 Strong communication and presentation skills .
 
