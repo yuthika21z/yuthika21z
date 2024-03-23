@@ -1,6 +1,6 @@
 # Hey, there ! 👋 I'm Yuthika Zodge 🌲 
 
-I m currently pursuing btech in Artificial Intelligence and Data Science .I love Data Visualization and have been learning all about it. On my GitHub, you'll find cool stuff I've made while learning , like programs and projects. Matplotlib and seaborn are my favorite python libraries and I like working with power BI too . 
+*I m currently pursuing btech in Artificial Intelligence and Data Science .I love Data Visualization and have been learning all about it. On my GitHub, you'll find cool stuff I've made while learning , like programs and projects. Matplotlib and seaborn are my favorite python libraries and I like working with power BI too .* 
 
 
 ## 🎓 Education
@@ -23,17 +23,17 @@ Achieved exceptional accuracy rates of 95% and 99% using decision tree and rando
 
 ## 💻 Technical Skills-
 
-Languages: Python, R, SQL  return\
-Libraries:  NumPy, Pandas, Matplotlib, Seaborn\
-Data analysis - Power BI , MS Excel .\
-Databases: Relational Database (MySQL)\
-Relevant Coursework: Specialization in Machine learning , Database Management System\
-Areas of Interest: Data analysis , Data visualization , Machine learning .\
+**Languages:** Python, R, SQL  return\
+**Libraries:**  NumPy, Pandas, Matplotlib, Seaborn\
+**Data analysis :** Power BI , MS Excel .\
+**Databases:** Relational Database (MySQL)\
+**Relevant Coursework:** Specialization in Machine learning , Database Management System\
+**Areas of Interest:** Data analysis , Data visualization , Machine learning .
 
 ## 🧠 Soft Skills -
 
 Time management \
-Strong communication and presentation skills .\
+Strong communication and presentation skills .
 
 ## ☎️ Get in Touch
 
