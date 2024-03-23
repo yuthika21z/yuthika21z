@@ -23,7 +23,7 @@ Achieved exceptional accuracy rates of 95% and 99% using decision tree and rando
 
 ## 💻 Technical Skills-
 
-**Languages:** Python, R, SQL  return\
+**Languages:** Python, R, SQL \
 **Libraries:**  NumPy, Pandas, Matplotlib, Seaborn\
 **Data analysis :** Power BI , MS Excel .\
 **Databases:** Relational Database (MySQL)\
