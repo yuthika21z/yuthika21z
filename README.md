@@ -1,4 +1,5 @@
-Hey, there ! 👋 I'm Yuthika Zodge 🌲
+#Hey, there ! 👋 I'm Yuthika Zodge 🌲 
+
 I m currently pursuing btech in Artificial Intelligence and Data Science .I love Data Visualization and have been learning all about it. On my GitHub, you'll find cool stuff I've made while learning , like programs and projects. Matplotlib and seaborn are my favorite python libraries and I like working with power BI too . 
 
 
